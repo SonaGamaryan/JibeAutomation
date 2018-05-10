@@ -1,0 +1,18 @@
+{
+  "negativePassword": {
+    "passwordIncorrect": "AAAAA123!",
+    "passwordEmpty": "",
+    "passwordUTF": "!@#$^&888!"
+  },
+  "negativeUserName": {
+    "userNameIncorrect": "AAAAA123@epam.com",
+    "UserNameEmpty": "",
+    "userNameUTF": "!@#$^&888!"
+  },
+  "searchData": {
+    "searchIncorrect": "AAAAA123@epam.com",
+    "searchEmpty": "hhhhhhh",
+    "searchUTF": "!@#$^&888!"
+  }
+
+}
